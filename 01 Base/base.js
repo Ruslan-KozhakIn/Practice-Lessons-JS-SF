@@ -52,14 +52,6 @@ confirm("Do you want to continue?");
 
 
 
-// ariphmetic operators: + - * / % **
-let number = +prompt("Enter your number:");
-console.log(`${number} + ${number} = ${number + number}`);
-console.log(`${number} - ${number} = ${number - number}`);
-console.log(`${number} * ${number} = ${number * number}`);
-console.log(`${number} / ${number} = ${number / number}`);
-console.log(`${number} % 2 = ${number % 2}`); //
-console.log(`${number} ** 3 = ${number ** 3}`); // stepin
 
 
 
